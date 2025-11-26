@@ -117,16 +117,16 @@ export default function CatalogClient({ initialCategories, initialProducts }: Ca
 
     return (
         <div className="min-h-screen bg-gray-50 flex flex-col font-sans">
-            <Header
-                onSearch={setSearchTerm}
-                onAdminAccess={handleAdminAccess}
-                cartItems={cartItems}
-                onCartClick={() => setIsCartOpen(true)}
-            />
+            <div className="sticky top-0 z-50 bg-white shadow-sm">
+                <Header
+                    onSearch={setSearchTerm}
+                    onAdminAccess={handleAdminAccess}
+                    cartItems={cartItems}
+                    onCartClick={() => setIsCartOpen(true)}
+                />
 
-            <main className="flex-grow">
-                {/* Hero / Category Section */}
-                <section className="bg-white border-b border-gray-100 sticky top-[72px] z-40 shadow-sm">
+                {/* Category Rail */}
+                <div className="border-t border-gray-100">
                     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
                         <CategoryRail
                             categories={initialCategories}
@@ -135,7 +135,10 @@ export default function CatalogClient({ initialCategories, initialProducts }: Ca
                             productCounts={productCounts}
                         />
                     </div>
-                </section>
+                </div>
+            </div>
+
+            <main className="flex-grow">
 
                 {/* Products Grid */}
                 <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
