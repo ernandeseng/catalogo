@@ -1,0 +1,256 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Tubos"
+    },
+    {
+      "id": 2,
+      "name": "Rolamentos"
+    },
+    {
+      "id": 3,
+      "name": "Rodízios"
+    },
+    {
+      "id": 4,
+      "name": "Tampas"
+    },
+    {
+      "id": 5,
+      "name": "Estacionamentos"
+    },
+    {
+      "id": 6,
+      "name": "Saídas"
+    },
+    {
+      "id": 7,
+      "name": "Acabamentos"
+    },
+    {
+      "id": 8,
+      "name": "Fechaduras"
+    },
+    {
+      "id": 9,
+      "name": "Roldanas"
+    },
+    {
+      "id": 10,
+      "name": "Aparadores"
+    },
+    {
+      "id": 11,
+      "name": "Batentes"
+    }
+  ],
+  "products": [
+    {
+      "name": "Saída com Guia Universal - Casinha",
+      "description": "Saída com Guia Universal para Casinha. Robusto e eficiente com baixo custo. Disponível nas cores branco e preto - Embalagem: 100 unidades no mix de cores",
+      "price": 1.96,
+      "category_id": 6,
+      "corCodigo": "SGU-b (Branco) / SGU-p (Preto)",
+      "image_path": "https://i.imgur.com/jq0lXWQ.jpeg",
+      "stock": 150,
+      "id": 1
+    },
+    {
+      "name": "Acabamento Saída Inferior",
+      "description": "Acabamento Saída Inferior (acabamento de pino guia). Robusto e eficiente com baixo custo. Disponível nas cores branco e preto - Embalagem: 200 unidades no mix de cores",
+      "price": 0.4,
+      "category_id": 7,
+      "corCodigo": "APG-b (Branco) / APG-p (Preto)",
+      "image_path": "https://i.imgur.com/zKBcQWh.jpeg",
+      "stock": 300,
+      "id": 2
+    },
+    {
+      "name": "Tampa do Leito do Vidro 8 e 10mm",
+      "description": "Tampa do Leito do Vidro de 8 e 10mm. Nylon Flexível, para leitos Olga e Euro. Disponível em múltiplas variações - Embalagem: 500 unidades",
+      "price": 0.15,
+      "category_id": 4,
+      "corCodigo": "TLL-b (Olga Branca) / TLL-p (Olga Preta) / TL2-b (Euro Branca) / TL2-p (Euro Preta)",
+      "image_path": "https://i.imgur.com/sm8RW5h.jpeg",
+      "stock": 500,
+      "id": 3
+    },
+    {
+      "name": "Rolamento 608 2 RS Injetado",
+      "description": "Rolamento 608 2 RS Injetado em Nylon Virgem Aditivado. Inquebrável e mais silencioso. Disponível em versão natural e preta - Embalagem: 500 unidades",
+      "price": 0.55,
+      "category_id": 2,
+      "corCodigo": "RIN (Injetado) / RIP (Preto)",
+      "image_path": "https://i.imgur.com/QYKdKPS.jpeg",
+      "stock": 200,
+      "id": 4
+    },
+    {
+      "name": "Rodízio SEM rolamento",
+      "description": "Rodízio SEM rolamento em polímero especial. Fórmula exclusiva com lubrificante sólido. Específico para o litoral. Cor Grafite - Embalagem: 500 unidades",
+      "price": 0.57,
+      "category_id": 3,
+      "corCodigo": "RSR",
+      "image_path": "https://i.imgur.com/IgIIAf3.jpeg",
+      "stock": 100,
+      "id": 5
+    },
+    {
+      "name": "Estacionamento Duplo Antiqueda",
+      "description": "Estacionamento Duplo Antiqueda com 3 Cavidades. Injetado em Nylon aditivado anti desgaste. Cor Preto - Embalagem: 200 unidades",
+      "price": 1.15,
+      "category_id": 5,
+      "corCodigo": "EDA",
+      "image_path": "https://i.imgur.com/XU8pwq5.jpeg",
+      "stock": 80,
+      "id": 6
+    },
+    {
+      "name": "Estacionamento Duplo",
+      "description": "Estacionamento Duplo com 2 Cavidades. Injetado em Nylon aditivado anti desgaste. Cor Preto - Embalagem: 200 unidades",
+      "price": 0.95,
+      "category_id": 5,
+      "corCodigo": "ED",
+      "image_path": "https://i.imgur.com/IzDvZQl.jpeg",
+      "stock": 90,
+      "id": 7
+    },
+    {
+      "name": "Estacionamento Simples (palito)",
+      "description": "Estacionamento Simples (palito) com 3 Cavidades. Injetado em Nylon aditivado anti desgaste. Cor Preto - Embalagem: 400 unidades",
+      "price": 0.32,
+      "category_id": 5,
+      "corCodigo": "ES",
+      "image_path": "https://i.imgur.com/1nId584.jpeg",
+      "stock": 120,
+      "id": 8
+    },
+    {
+      "name": "Kit Roldana em Inox",
+      "description": "Kit Roldana em Inox rolamentos blindados e freio em Nylon aditivado com redutor de atrito e pino guia também em Nylon de alta resistência. Disponível nas cores branca e preta - Embalagem: 100 unidades",
+      "price": 21.8,
+      "category_id": 9,
+      "corCodigo": "KRI-01 (Branca) / KRI-02 (Preta)",
+      "image_path": "https://i.imgur.com/9jWxHEj.jpeg",
+      "stock": 50,
+      "id": 9
+    },
+    {
+      "name": "Kit Patente/Pivô em Nylon 6",
+      "description": "Kit Patente/Pivô em Nylon 6 reforçado e Eixo em Inox. Fixação por parafuso M4 Inox. Cor Sapata Nylon - Embalagem: 50 unidades",
+      "price": 17.2,
+      "category_id": 9,
+      "corCodigo": "KBT-01",
+      "image_path": "https://i.imgur.com/Izgosjd.jpeg",
+      "stock": 40,
+      "id": 10
+    },
+    {
+      "name": "Aparador em Alumínio com haste dupla",
+      "description": "Aparador em Alumínio com haste dupla Usinado. Pintura Epoxi Branca e Preta. Design e Acabamento Superiores. Disponível nas cores branca e preta - Embalagem: 40 unidades no mix de cores",
+      "price": 25.4,
+      "category_id": 10,
+      "corCodigo": "APA-b (Branca) / APA-p (Preta)",
+      "image_path": "https://i.imgur.com/k6kNteZ.jpeg",
+      "stock": 60,
+      "id": 11
+    },
+    {
+      "name": "Aparador em Nylon",
+      "description": "Aparador em Nylon Injetado em Inox. Ultra resistente. Elegância com economia. Disponível nas cores branca e preta - Embalagem: 50 unidades no mix de cores",
+      "price": 12.6,
+      "category_id": 10,
+      "corCodigo": "APN-b (Branca) / APN-p (Preta)",
+      "image_path": "https://i.imgur.com/nIg4SEK.jpeg",
+      "stock": 75,
+      "id": 12
+    },
+    {
+      "name": "Fechadura Vidro-Vidro STYLE",
+      "description": "Fechadura Vidro-Vidro STYLE 8 e 10mm. Policarbonato, Elegante e Ultra Resistente. Disponível nas cores branca e preta, para vidros de 8mm e 10mm - Embalagem: 40 unidades no mix de cores",
+      "price": 24.9,
+      "category_id": 8,
+      "corCodigo": "VV08-b (Branca) / VV010-b (Branca) / VV08-p (Preta) / VV010-p (Preta)",
+      "image_path": "https://i.imgur.com/EcXpMaA.jpeg",
+      "variations": [
+        {
+          "name": "VV08-b (Branca) - 8mm",
+          "price": 24.9
+        },
+        {
+          "name": "VV010-b (Branca) - 10mm",
+          "price": 26.9
+        },
+        {
+          "name": "VV08-p (Preta) - 8mm",
+          "price": 24.9
+        },
+        {
+          "name": "VV010-p (Preta) - 10mm",
+          "price": 26.9
+        }
+      ],
+      "stock": 30,
+      "id": 13
+    },
+    {
+      "name": "Fechadura Vidro-Vidro CLASSIC",
+      "description": "Fechadura Vidro-Vidro CLASSIC 8 e 10mm. Policarbonato, Ultra Resistente, design clássico. Disponível nas cores branca e preta, para vidros de 8mm e 10mm - Embalagem: 40 unidades no mix de cores",
+      "price": 22.9,
+      "category_id": 8,
+      "corCodigo": "VVR8-b (Branca) / VVR8-p (Preta) / VVR10-b (Branca) / VVR10-p (Preta)",
+      "image_path": "https://i.imgur.com/1y4PK7W.jpeg",
+      "stock": 35,
+      "id": 14
+    },
+    {
+      "name": "Fechadura Vidro-Leito para perfil",
+      "description": "Fechadura Vidro-Leito para todos os modelos de perfil. Policarbonato, Ultra Resistente e Discreta. Chave e miolo em Latão ou Chave e miolo em Nylon. Cor Preta - Embalagem: 40 unidades",
+      "price": 16.8,
+      "category_id": 8,
+      "corCodigo": "VEB-latão (Preta) / VEBn-Nylon (Preta) / VEP-latão (Preta) / VEPn-Nylon (Preta)",
+      "image_path": "https://i.imgur.com/vBmZMqI.jpeg",
+      "variations": [
+        {
+          "name": "VEB-latão (Preta)",
+          "price": 16.8
+        },
+        {
+          "name": "VEBn-Nylon (Preta)",
+          "price": 11.6
+        },
+        {
+          "name": "VEP-latão (Preta)",
+          "price": 16.8
+        },
+        {
+          "name": "VEPn-Nylon (Preta)",
+          "price": 11.6
+        }
+      ],
+      "stock": 45,
+      "id": 15
+    },
+    {
+      "name": "Kit de Saída com Conjunto Antiqueda",
+      "description": "Kit de Saída com Conjunto Antiqueda 10 peças: 01 Superior, 01 Inferior, 02 suportes de trilho e 06 de Leito. Saída superior com ou sem contorno de roldana. Disponível nas cores branco e preto - Embalagem: 50 unidades no mix de cores",
+      "price": 6.5,
+      "category_id": 6,
+      "corCodigo": "KSE-b (Branco) / KSE-p (Preto)",
+      "image_path": "https://i.imgur.com/Nttjym1.jpeg",
+      "stock": 25,
+      "id": 16
+    },
+    {
+      "name": "Kit de Saída com Mola Guia Reversa",
+      "description": "Kit de Saída com Mola Guia Reversa 03 peças: 01 Superior, 01 Inferior e 01 Mola Guia. Disponível nas cores branco e preto - Embalagem: 50 unidades no mix de cores",
+      "price": 8.9,
+      "category_id": 6,
+      "corCodigo": "KSM-b (Branco) / KSM-p (Preto)",
+      "image_path": "https://i.imgur.com/WQkDY92.jpeg",
+      "stock": 20,
+      "id": 17
+    }
+  ]
+}
