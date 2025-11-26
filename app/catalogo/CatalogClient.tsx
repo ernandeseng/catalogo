@@ -117,7 +117,7 @@ export default function CatalogClient({ initialCategories, initialProducts }: Ca
 
     return (
         <div className="min-h-screen bg-gray-50 flex flex-col font-sans">
-            <div className="sticky top-0 z-50 bg-white shadow-sm">
+            <div className="bg-white shadow-sm">
                 <Header
                     onSearch={setSearchTerm}
                     onAdminAccess={handleAdminAccess}
