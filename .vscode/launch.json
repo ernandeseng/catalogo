@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Next.js: Chrome",
+            "type": "chrome",
+            "request": "launch",
+            "url": "http://localhost:3000/admin",
+            "webRoot": "${workspaceFolder}",
+            "presentation": {
+                "hidden": false,
+                "group": "preview",
+                "order": 1
+            }
+        }
+    ]
+}
